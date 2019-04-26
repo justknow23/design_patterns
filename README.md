@@ -16,8 +16,8 @@
 ###### 抽象工厂模式【AbstractFactory】
 ###### 建造者模式【Builder】
 ###### 原型模式【Prototype】
-###### 结构设计模式（Structural Patterns）
 
+结构设计模式（Structural Patterns）
 (7种)：用于继承和接口时的设计模式。结构设计模式用于新类的函数方法设计，减少不必要的类定义，减少代码的冗余。
 ###### 适配器模式【Adapter】
 ###### 桥接模式【Bridge】
